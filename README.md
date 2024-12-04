@@ -3,7 +3,7 @@
 ### Objective
 The Real-Time Cricket Commentary System is designed to provide live, dynamic commentary for ongoing cricket matches using the Mistral 7b GenAI API. The system leverages Python and MySQL to process live match data and generate text-based commentary in real time, enhancing the fan experience during matches.
 
-### DEMO VIDEO FOR REAL TIME AI COMMENTARY
+# DEMO VIDEO FOR REAL TIME AI COMMENTARY
 https://github.com/user-attachments/assets/11a1bb39-bea2-4475-8579-4a1803aef2f6
 
 
